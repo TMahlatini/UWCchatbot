@@ -1,1 +1,1 @@
-APIKEY = "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"
+APIKEY = "sk-4"
